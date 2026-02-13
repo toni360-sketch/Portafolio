@@ -13,3 +13,16 @@ This is my personal portfolio website created with HTML, CSS, and JavaScript.
 
 ## Live Website
 https://toni360-sketch.github.io/Portafolio/
+
+# Design Documentation
+
+## Color Palette
+- Yellow: #F0F8A4
+- Orange: #FF9F43
+
+## Typography
+- Montserrat for titles
+- Inter for text
+
+## Inspiration
+Minimalist portfolio websites from Behance.
