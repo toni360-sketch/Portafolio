@@ -1,28 +1,32 @@
-# JL Professional Portfolio
+# JL Professional Portfolio Website
 
-This is my personal portfolio website created with HTML, CSS, and JavaScript.
+This project is a personal professional portfolio website developed as part of an academic assignment.  
+The purpose of this website is to present my skills, projects, and professional profile in a clean and accessible way.
 
-## Features
-- Responsive design
-- Skills and projects section
-- Contact form
+---
 
-## Setup Instructions
-1. Clone the repository
-2. Open `index.html` in your browser
+## 📌 Project Description
 
-## Live Website
-https://toni360-sketch.github.io/Portafolio/
+The portfolio includes different sections such as:
 
-# Design Documentation
+- Home / Introduction  
+- About Me  
+- Skills  
+- Projects  
+- Contact  
 
-## Color Palette
-- Yellow: #F0F8A4
-- Orange: #FF9F43
+The website was created using modern web development practices with a responsive design to ensure compatibility across different devices.
 
-## Typography
-- Montserrat for titles
-- Inter for text
+---
 
-## Inspiration
-Minimalist portfolio websites from Behance.
+## 🚀 Technologies Used
+
+- **HTML5** for the structure  
+- **CSS3** for styling and layout  
+- **JavaScript** for interactive elements  
+- **Google Fonts** for typography  
+
+---
+
+## 📂 Project Folder Structure
+
